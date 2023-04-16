@@ -1,0 +1,20 @@
+<div>
+	<input>
+	<ul>
+		<li>
+	<label>
+	<div>
+</div>
+
+//ul[@class="autoFill homeSearch"]/li
+
+//input[@id="src"]/following-sibling::ul/li
+
+//label[@for="src"]/preceding-sibling::ul
+
+Parent:
+//label[@for="src"]/parent::div//li
+
+//label[@for="src"]/parent::div/ul/li
+
+//label[@for="src"]/../ul/li
