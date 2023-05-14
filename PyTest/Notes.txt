@@ -1,0 +1,36 @@
+Adv of Pytest
+---------------
+Pytest can run the test in parallel
+We can run the subset (Group the test cases and run)
+Similar to unittest, syntax are Similar
+
+Running Test
+------------
+test*.py or end with *test.py
+methodname also should start with test
+
+To run the test
+-------------
+pytest -v
+
+-v -> verbrose - to provide detail output result in console
+
+
+pytest <filename.py> -v
+
+To print any statements
+-----------------------
+
+pytest <filename.py> -v -s
+
+or
+
+pytest <filename.py> -v --capture==no
+
+
+to test in parallel
+===================
+pip install pytest-xdist
+
+
+pytest -n 3
