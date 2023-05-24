@@ -20,7 +20,7 @@ add = lambda a,b : a+b
 print(add(10,6))
 
 def countrylist(country = "India"):
-    return "Selected value is"+country
+    return "Selected value is "+country
 
 print(countrylist())
 

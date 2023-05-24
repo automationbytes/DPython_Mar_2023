@@ -17,6 +17,7 @@ fruits = ["Apple","Mango","Banana","Stawberry","Banana"]
 newfruits = set(fruits)
 print(newfruits)
 
+
 for n in newfruits:
     print(n)
 

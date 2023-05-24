@@ -22,7 +22,7 @@ emp1 = employee("Tom",25)
 emp2 = employee("Tim",23)
 emp3 = employee("Jack",24)
 
-employee.set_retireage(55)
+em.set_retireage(55)
 
 print(emp1.name,"is",emp1.age,"years old")
 print(emp2.name,"is",emp2.age,"years old")

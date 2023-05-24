@@ -39,5 +39,5 @@ print(employee.symmetric_difference(student))
 print(employee.union(student))
 
 
-print(employee.difference(student))
+print(student.difference(employee))
 print(employee)

@@ -1,0 +1,30 @@
+Switch to
+---------
+
+1) iframes - html inside a html
+2) alerts - web pops
+3) window handling - working on multiple windows/tab
+
+iframes
+------
+3 ways
+
+1) id/name
+2) any of 8 locators
+3) index
+
+alerts
+------
+4 actions
+
+1) accept() - all postive flows 
+2) dismiss() - all negative flows
+3) sendkeys - send some input text to inputbox
+4) text - get the alert value
+
+------------------------------------
+
+actions
+-------
+
+to perform both keyboard and mouse actions

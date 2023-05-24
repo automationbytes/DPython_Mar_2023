@@ -78,4 +78,6 @@ alphabets = ["Zebra","Ball","Dog","Elephant","Parrot"]
 alphabets.reverse()
 print(alphabets)
 
-
+#Assignment
+#Finding largest number from a list
+#Remove duplicates from the list
